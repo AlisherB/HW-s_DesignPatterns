@@ -8,3 +8,12 @@ C:\Users\alish\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.1
 C:\Users\alish\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27.03.18.exe
 C:\Users\alish\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27.03.18.pdb
 C:\Users\alish\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27.03.18.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\bin\Debug\HW_DP_27.03.18.exe.config
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\bin\Debug\HW_DP_27.03.18.exe
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\bin\Debug\HW_DP_27.03.18.pdb
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27.03.18.csprojResolveAssemblyReference.cache
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27._03._18.MainForm.resources
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27._03._18.Properties.Resources.resources
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27.03.18.csproj.GenerateResource.Cache
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27.03.18.exe
+C:\Users\БекмухамбетА\Documents\GitHub\HW-s_DesignPatterns\HW_DP_27.03.18\HW_DP_27.03.18\obj\Debug\HW_DP_27.03.18.pdb

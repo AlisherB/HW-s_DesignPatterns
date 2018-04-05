@@ -121,7 +121,6 @@ namespace HW_DP_27._03._18
                 Multiline = true;
                 Size = new Size(249, 100);
             }
-                
             if (t.ScrollBars == ScrollBars.Vertical)
             {
                 WordWrap = false;
